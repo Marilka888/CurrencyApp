@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="top_destination_exchange">Обмен</string>
+    <string name="top_destination_history">История</string>
+    <string name="top_destination_analytics">Аналитика</string>
+    <string name="exchange">Обменять</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="exchange_error">Курс был обновлен. Произведите обмен еще раз</string>
+    <string name="period">Период:</string>
+    <string name="currencies">Валюты:</string>
+    <string name="all_currencies">Все валюты</string>
+    <string name="no_period">За все время</string>
+    <string name="period_all">За все время</string>
+    <string name="period_week">За неделю</string>
+    <string name="period_two_weeks">За 2 недели</string>
+    <string name="period_month">За месяц</string>
+    <string name="period_custom">Другой период</string>
+    <string name="apply">Применить</string>
+    <string name="filters">Фильтры</string>
+    <string name="title_currencies">Выбор валют</string>
+    <string name="title_converter">Конвертер</string>
+</resources>
